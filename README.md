@@ -22,7 +22,7 @@
 <img width="1912" height="971" alt="image" src="https://github.com/user-attachments/assets/346a9976-8598-4715-93bb-6af4e2fec80b" />
 <img width="1917" height="1020" alt="Screenshot 2025-11-03 173418 - Copy" src="https://github.com/user-attachments/assets/b5aeb4b9-6c3e-4197-b98d-c1ef4631236b" />
 <img width="1918" height="1017" alt="Screenshot 2025-11-03 173909 - Copy" src="https://github.com/user-attachments/assets/8d97d61e-63f8-4506-aeaf-8aed833896b5" />
-<img width="1918" height="1020" alt="Screenshot 2025-11-03 174249 - Copy - Copy" src="https://github.com/user-attachments/assets/4086e3fa-0384-4ee1-b7a8-744f6f71ed17" />
+<img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/9b9ac85d-b241-4a50-93bb-d3725e9984b1" />
 <img width="1918" height="1018" alt="Screenshot 2025-11-03 174747 - Copy" src="https://github.com/user-attachments/assets/c11931ad-08e7-47ef-9964-b77663056bea" />
 <img width="1918" height="985" alt="Screenshot 2025-11-03 175011 - Copy" src="https://github.com/user-attachments/assets/554f8c3f-acc0-4317-87be-689defb93ae0" />
 <img width="1918" height="1018" alt="Screenshot 2025-11-03 175156 - Copy" src="https://github.com/user-attachments/assets/f51a44f9-822c-4f11-8a38-464de78f729a" />
